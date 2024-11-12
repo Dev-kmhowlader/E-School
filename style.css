@@ -1,0 +1,64 @@
+
+
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+.body {
+    font-family: "Poppins", serif;
+}
+
+.color.container {
+    background-color: #f0fff0;
+}
+.contents {
+    column-gap: 10px;
+}
+.contents h5{
+    font-size: 16px;
+    color: #fb511a
+}
+.contents h1 {
+    color: black;
+    width: 700px;
+}
+.contents span {
+    color: #21b573;
+    font-size: 40px;
+    width: 700px;
+    }
+    .contents p{
+        font-size: 16px;
+        color: #757574;
+        margin-bottom: 25px;
+}
+.hero-btn a{
+    background: #21b573;
+    padding: 10px 30px;
+ border-radius: 35px;
+ color: white;
+ text-decoration: none;
+
+}
+/* Main-section */
+
+.portfalio {
+    margin: 100px 42px 0;
+}
+
+
+
+
+
+
+
+
+.couirse-portfalio {
+    margin: 100PX 42PX 0;
+}
+.heading  {
+   justify-items: center;
+   font-size: 32px;
+   padding-bottom: 40px;
+}
+
