@@ -44,6 +44,7 @@
 
 .portfalio {
     margin: 100px 42px 0;
+    margin-bottom: 100px;
 }
 
 
@@ -53,12 +54,61 @@
 
 
 
-.couirse-portfalio {
-    margin: 100PX 42PX 0;
-}
+
 .heading  {
    justify-items: center;
    font-size: 32px;
    padding-bottom: 40px;
 }
+.date {
+    gap: 120PX;
+}
+.course-item h3{
+    margin-top: 15px;
+}
+.course-item a{
+     background: #21b573;
+     padding: 8px 30px;
+     border-radius: 35px;
+     color: white;
+     text-decoration: none;
+    }
+    .date{
+     margin-top: 25px;
+    }
+    /* third section */
+    
+    .contents{
+        max-width: 780px;
+       justify-items: center;
+    column-gap: 500px;
+       margin-bottom: 100px;
+    }
+
+    .text{
+        text-align: center;
+        margin-top: 60px;
+        margin-bottom: 25px;
+    }
+.image-content img{
+    width: 280px;
+    
+}
+/* footer section */
+.footer-info{
+background-color: #282531;
+  
+   column-gap: 80px;
+   margin-bottom: 100px;
+}
+.footer-item p{
+    width: 500px;
+    color: #f0fff0;
+}
+
+.course-item ul{
+color: #f0fff0;
+}
+
+    
 
