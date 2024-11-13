@@ -49,6 +49,13 @@ body {
     margin: 100px 42px 0;
     margin-bottom: 100px;
 }
+.book-item{
+   
+   justify-content: center;
+}
+.books-info{
+    gap: 100px;
+}
 
 
 
@@ -95,7 +102,9 @@ body {
     }
 .image-content img{
     width: 280px;
-    
+}
+.course-info{
+    gap: 40px;
 }
 /* footer section */
 .black{
@@ -126,4 +135,3 @@ color: #f0fff0;
 
     
 
- 
