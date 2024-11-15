@@ -100,9 +100,7 @@ body {
         margin-top: 60px;
         margin-bottom: 25px;
     }
-.image-content img{
-    width: 280px;
-}
+
 .course-info{
     gap: 40px;
 }
@@ -133,5 +131,7 @@ color: #f0fff0;
     color: white;
 }
 
-    
+@media (max-width: 768px) {
+    display: none;
+}
 
