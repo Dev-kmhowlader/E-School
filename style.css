@@ -30,8 +30,10 @@
 
 
 
-
-
+/* .books-info {
+    box-shadow:  var(--bs-box-shadow) !important;
+}
+ */
 
 
 
@@ -96,6 +98,9 @@ color: #f0fff0;
     text-align: center;
     color: white;
 }
-
+ main .book-item-1:hover {
+ background-color: #fb511a;
+ box-shadow: 5px 5px 5px 5px yellow;
+ }
 
 
