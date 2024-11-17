@@ -1,61 +1,8 @@
 
 
-
-
-
-.course-item h3{
-    margin-top: 15px;
-}
-.course-item a{
-     background: #21b573;
-     padding: 8px 30px;
-     border-radius: 35px;
-     color: white;
-     text-decoration: none;
-    }
-    .date{
-     margin-top: 25px;
-    }
-  
-
-    .text{
-        text-align: center;
-        margin-top: 60px;
-        margin-bottom: 25px;
-    }
-
-.course-info{
-    gap: 40px;
-}
-/* footer section */
-.black{
-    background-color: #282531;
-    padding: 50px 350px;
-
-}
-.footer-info{
-   column-gap: 30px;
-   margin-bottom: 100px;
-}
-.footer-item p{
-    width: 500px;
-    color: #f0fff0;
- justify-content: center;
-}
-
-.course-item ul{
-color: #f0fff0;
-}
-.icon p{
-    color: #f0fff0;
-}
-.conta p{
-    text-align: center;
-    color: white;
-}
  main .book-item-1:hover {
- background-color: #fb511a;
- box-shadow: 5px 5px 5px 5px yellow;
+ background-color: #ffffff;
+ box-shadow: 1px 1px 1px 1px yellow;
  }
 
 
